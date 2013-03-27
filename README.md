@@ -1,3 +1,5 @@
+以 jQuery 为基础的开源 JavaScript 网页UI代码库，包含底层用户交互、动画、特效和可更换主题的可视控件。
+
 [jQuery UI](http://jqueryui.com/) - Interactions and Widgets for the web
 ================================
 
